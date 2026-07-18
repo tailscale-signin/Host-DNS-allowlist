@@ -96,14 +96,14 @@ api.didomi.io
 secure-webtv-static.canal-plus.com
 ltv.services.canalplustech.pro
 acm.slc-app-aka.prod.bo.canal.canalplustech.pro
-*.canalplus.com
-*.canal-plus.com
-*.mycanal.fr
-*.canalplus.pro
-*.static.canal-plus.net
-*.cplus.live
-*.canalpluspro.fr
-*.canal-analytics.com
+.canalplus.com
+.canal-plus.com
+.mycanal.fr
+.canalplus.pro
+.static.canal-plus.net
+.cplus.live
+.canalpluspro.fr
+.canal-analytics.com
 
 
 
